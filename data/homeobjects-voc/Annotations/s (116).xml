@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (116).jpg</filename>
+  <size>
+    <width>1351</width>
+    <height>1919</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>965</xmin>
+      <ymin>533</ymin>
+      <xmax>1203</xmax>
+      <ymax>1189</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1210</xmin>
+      <ymin>494</ymin>
+      <xmax>1349</xmax>
+      <ymax>1220</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>956</xmin>
+      <ymin>782</ymin>
+      <xmax>1128</xmax>
+      <ymax>1230</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>photo frame</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>312</xmin>
+      <ymin>657</ymin>
+      <xmax>501</xmax>
+      <ymax>833</ymax>
+    </bndbox>
+  </object>
+</annotation>

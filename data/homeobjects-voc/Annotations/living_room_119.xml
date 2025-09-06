@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_119.jpg</filename>
+  <size>
+    <width>1080</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <ymin>1026</ymin>
+      <xmax>1063</xmax>
+      <ymax>1508</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>13</xmin>
+      <ymin>1567</ymin>
+      <xmax>1077</xmax>
+      <ymax>1905</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>lamp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>660</xmin>
+      <ymin>309</ymin>
+      <xmax>803</xmax>
+      <ymax>500</ymax>
+    </bndbox>
+  </object>
+</annotation>

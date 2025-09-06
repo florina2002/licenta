@@ -1,0 +1,58 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_1915.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>1919</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1199</ymin>
+      <xmax>614</xmax>
+      <ymax>1876</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>lamp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>93</xmin>
+      <ymin>562</ymin>
+      <xmax>248</xmax>
+      <ymax>721</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>407</xmin>
+      <ymin>598</ymin>
+      <xmax>999</xmax>
+      <ymax>1264</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>555</xmin>
+      <ymin>1249</ymin>
+      <xmax>1008</xmax>
+      <ymax>1858</ymax>
+    </bndbox>
+  </object>
+</annotation>

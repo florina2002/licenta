@@ -1,0 +1,5 @@
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.tf.data-* filter=lfs diff=lfs merge=lfs -text
+model/** filter=lfs diff=lfs merge=lfs -text
+data/*.record filter=lfs diff=lfs merge=lfs -text
+variables.data-* filter=lfs diff=lfs merge=lfs -text

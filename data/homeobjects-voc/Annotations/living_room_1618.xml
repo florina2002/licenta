@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_1618.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chair</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>389</xmin>
+      <ymin>837</ymin>
+      <xmax>754</xmax>
+      <ymax>1078</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>chair</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>867</ymin>
+      <xmax>278</xmax>
+      <ymax>1078</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>lamp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>385</xmin>
+      <ymin>548</ymin>
+      <xmax>571</xmax>
+      <ymax>698</ymax>
+    </bndbox>
+  </object>
+</annotation>

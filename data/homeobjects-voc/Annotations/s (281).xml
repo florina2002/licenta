@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (281).jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>table</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1483</ymin>
+      <xmax>1263</xmax>
+      <ymax>1918</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>597</xmin>
+      <ymin>967</ymin>
+      <xmax>1278</xmax>
+      <ymax>1600</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>laptop</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1161</ymin>
+      <xmax>536</xmax>
+      <ymax>1704</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_699.jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>111</xmin>
+      <ymin>1073</ymin>
+      <xmax>409</xmax>
+      <ymax>1319</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>7</xmin>
+      <ymin>1297</ymin>
+      <xmax>237</xmax>
+      <ymax>1709</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>173</xmin>
+      <ymin>1558</ymin>
+      <xmax>389</xmax>
+      <ymax>1722</ymax>
+    </bndbox>
+  </object>
+</annotation>

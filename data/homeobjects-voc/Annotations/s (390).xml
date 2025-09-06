@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (390).jpg</filename>
+  <size>
+    <width>1281</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>wardrobe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>1259</ymin>
+      <xmax>845</xmax>
+      <ymax>1894</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>343</xmin>
+      <ymin>954</ymin>
+      <xmax>562</xmax>
+      <ymax>1284</ymax>
+    </bndbox>
+  </object>
+</annotation>

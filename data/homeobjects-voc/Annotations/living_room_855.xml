@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_855.jpg</filename>
+  <size>
+    <width>1528</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>sofa</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>429</xmin>
+      <ymin>821</ymin>
+      <xmax>1526</xmax>
+      <ymax>1918</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>57</xmin>
+      <ymin>15</ymin>
+      <xmax>435</xmax>
+      <ymax>1207</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>photo frame</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1109</xmin>
+      <ymin>11</ymin>
+      <xmax>1526</xmax>
+      <ymax>800</ymax>
+    </bndbox>
+  </object>
+</annotation>

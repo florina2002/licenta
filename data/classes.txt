@@ -1,0 +1,12 @@
+bed
+sofa
+chair
+table
+lamp
+tv
+laptop
+wardrobe
+window
+door
+potted plant
+photo frame

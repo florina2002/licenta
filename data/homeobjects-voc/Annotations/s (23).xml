@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (23).jpg</filename>
+  <size>
+    <width>1281</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>bed</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>31</xmin>
+      <ymin>1039</ymin>
+      <xmax>897</xmax>
+      <ymax>1760</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>107</xmin>
+      <ymin>546</ymin>
+      <xmax>300</xmax>
+      <ymax>1088</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1049</xmin>
+      <ymin>651</ymin>
+      <xmax>1279</xmax>
+      <ymax>1469</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>347</xmin>
+      <ymin>854</ymin>
+      <xmax>938</xmax>
+      <ymax>1230</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>358</ymin>
+      <xmax>180</xmax>
+      <ymax>669</ymax>
+    </bndbox>
+  </object>
+</annotation>

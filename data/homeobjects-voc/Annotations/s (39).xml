@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (39).jpg</filename>
+  <size>
+    <width>1279</width>
+    <height>1919</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>318</xmin>
+      <ymin>443</ymin>
+      <xmax>616</xmax>
+      <ymax>1292</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>622</xmin>
+      <ymin>484</ymin>
+      <xmax>920</xmax>
+      <ymax>1333</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>window</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>906</xmin>
+      <ymin>451</ymin>
+      <xmax>1204</xmax>
+      <ymax>1300</ymax>
+    </bndbox>
+  </object>
+</annotation>

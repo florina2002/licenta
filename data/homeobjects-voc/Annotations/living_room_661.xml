@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_661.jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1279</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>potted plant</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>851</xmin>
+      <ymin>281</ymin>
+      <xmax>1204</xmax>
+      <ymax>892</ymax>
+    </bndbox>
+  </object>
+</annotation>

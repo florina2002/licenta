@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_291.jpg</filename>
+  <size>
+    <width>1371</width>
+    <height>1920</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>tv</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>266</xmin>
+      <ymin>646</ymin>
+      <xmax>954</xmax>
+      <ymax>1231</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>wardrobe</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>83</xmin>
+      <ymin>1156</ymin>
+      <xmax>1064</xmax>
+      <ymax>1598</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>living_room_1627.jpg</filename>
+  <size>
+    <width>1277</width>
+    <height>1919</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>door</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>939</xmin>
+      <ymin>539</ymin>
+      <xmax>1063</xmax>
+      <ymax>1652</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (283).jpg</filename>
+  <size>
+    <width>1280</width>
+    <height>1919</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>photo frame</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>810</xmin>
+      <ymin>658</ymin>
+      <xmax>1085</xmax>
+      <ymax>1033</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>photo frame</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>460</xmin>
+      <ymin>280</ymin>
+      <xmax>651</xmax>
+      <ymax>517</ymax>
+    </bndbox>
+  </object>
+</annotation>

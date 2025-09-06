@@ -1,0 +1,12 @@
+item { id: 1  name: 'bed' }
+item { id: 2  name: 'sofa' }
+item { id: 3  name: 'chair' }
+item { id: 4  name: 'table' }
+item { id: 5  name: 'lamp' }
+item { id: 6  name: 'tv' }
+item { id: 7  name: 'laptop' }
+item { id: 8  name: 'wardrobe' }
+item { id: 9  name: 'window' }
+item { id: 10  name: 'door' }
+item { id: 11  name: 'potted plant' }
+item { id: 12  name: 'photo frame' }

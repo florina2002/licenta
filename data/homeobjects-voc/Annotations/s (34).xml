@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (34).jpg</filename>
+  <size>
+    <width>1919</width>
+    <height>1280</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>chair</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>602</xmin>
+      <ymin>270</ymin>
+      <xmax>1086</xmax>
+      <ymax>1155</ymax>
+    </bndbox>
+  </object>
+</annotation>

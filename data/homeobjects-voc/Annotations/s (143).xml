@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>homeobjects-voc</folder>
+  <filename>s (143).jpg</filename>
+  <size>
+    <width>1920</width>
+    <height>1330</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>lamp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>995</xmin>
+      <ymin>132</ymin>
+      <xmax>1593</xmax>
+      <ymax>833</ymax>
+    </bndbox>
+  </object>
+</annotation>
